@@ -34,8 +34,8 @@ We listed repositories according to the lifecycle above.
 |                     |[CodeFuse-Eval](https://github.com/codefuse-ai/codefuse-evaluation)|Evaluation kits for CodeFuse |   
 | Test&Build Copilot  |[TestAgent](https://github.com/codefuse-ai/Test-Agent) | TestGPT demo frontend  |  
 | Ops Copilot         |[DevOps-Eval](https://github.com/codefuse-ai/codefuse-devops-eval)|Benchmark for DevOps|   
-|                     |[DevOps-Model](https://github.com/codefuse-ai/CodeFuse-DevOps-Model) |index for DevOps  models|   
-| Data Copilot        |    NA              |     NA   | 
+|                     |[DevOps-Model](https://github.com/codefuse-ai/CodeFuse-DevOps-Model) |Index for DevOps  Models|   
+| Data Copilot        |CodeFuse-Query (coming soon)| Semantic Code Analysis Engine for CodeFuse Training Data | 
 | Others              |[ChatBot](https://github.com/codefuse-ai/codefuse-chatbot) |General chatbot frontend for CodeFuse | 
 |                     |[ModelCache](https://github.com/codefuse-ai/CodeFuse-ModelCache) |Semantic Cache for LLM Serving  | 
 |                     |[CoCA](https://github.com/codefuse-ai/Collinear-Constrained-Attention)|Colinear Attention | 
@@ -88,6 +88,15 @@ If you find our work useful or helpful for your R&D works, please feel free to c
       journal={arXiv preprint arXiv},
       archivePrefix={arXiv},
       eprint={2311.02303}
+}
+
+@misc{di2023codefuse13b,
+      title={CodeFuse-13B: A Pretrained Multi-lingual Code Large Language Model}, 
+      author={Peng Di and Jianguo Li and Hang Yu and Wei Jiang and Wenting Cai and Yang Cao and Chaoyu Chen and Dajun Chen and Hongwei Chen and Liang Chen and Gang Fan and Jie Gong and Zi Gong and Wen Hu and Tingting Guo and Zhichao Lei and Ting Li and Zheng Li and Ming Liang and Cong Liao and Bingchang Liu and Jiachen Liu and Zhiwei Liu and Shaojun Lu and Min Shen and Guangpei Wang and Huan Wang and Zhi Wang and Zhaogui Xu and Jiawei Yang and Qing Ye and Gehao Zhang and Yu Zhang and Zelin Zhao and Xunjin Zheng and Hailian Zhou and Lifu Zhu and Xianying Zhu},
+      year={2023},
+      eprint={2310.06266},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
 }
 ```
 
