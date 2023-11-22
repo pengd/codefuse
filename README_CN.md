@@ -35,7 +35,7 @@ CodeFuse的使命是开发专门设计用于支持整个软件开发生命周期
 | 测试和构建Copilot  |[TestAgent](https://github.com/codefuse-ai/Test-Agent) | TestGPT示例前端  |  
 | 运维Copilot         |[DevOps-Eval](https://github.com/codefuse-ai/codefuse-devops-eval)|DevOps评测集和框架 |   
 |                     |[DevOps-Model](https://github.com/codefuse-ai/CodeFuse-DevOps-Model) |DevOps模型列表介绍 |   
-| 数据Copilot        |    NA              |     NA   | 
+| 数据Copilot        |CodeFuse-Query (coming soon)| 程序语义分析引擎 | 
 | 其他模块   |[ChatBot](https://github.com/codefuse-ai/codefuse-chatbot) |通用chatbot前端 | 
 |                     |[CoCA](https://github.com/codefuse-ai/Collinear-Constrained-Attention)|共线约束注意力算法 | 
 |                     |[Awesine-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM)|代码大模型survey主页 | 
@@ -84,5 +84,14 @@ CodeFuse的使命是开发专门设计用于支持整个软件开发生命周期
       journal={arXiv preprint arXiv},
       archivePrefix={arXiv},
       eprint={2311.02303}
+}
+
+@misc{di2023codefuse13b,
+      title={CodeFuse-13B: A Pretrained Multi-lingual Code Large Language Model}, 
+      author={Peng Di and Jianguo Li and Hang Yu and Wei Jiang and Wenting Cai and Yang Cao and Chaoyu Chen and Dajun Chen and Hongwei Chen and Liang Chen and Gang Fan and Jie Gong and Zi Gong and Wen Hu and Tingting Guo and Zhichao Lei and Ting Li and Zheng Li and Ming Liang and Cong Liao and Bingchang Liu and Jiachen Liu and Zhiwei Liu and Shaojun Lu and Min Shen and Guangpei Wang and Huan Wang and Zhi Wang and Zhaogui Xu and Jiawei Yang and Qing Ye and Gehao Zhang and Yu Zhang and Zelin Zhao and Xunjin Zheng and Hailian Zhou and Lifu Zhu and Xianying Zhu},
+      year={2023},
+      eprint={2310.06266},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
 }
 ```

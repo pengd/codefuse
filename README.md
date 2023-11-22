@@ -35,7 +35,7 @@ We listed repositories according to the lifecycle above.
 | Test&Build Copilot  |[TestAgent](https://github.com/codefuse-ai/Test-Agent) | TestGPT demo frontend  |  
 | Ops Copilot         |[DevOps-Eval](https://github.com/codefuse-ai/codefuse-devops-eval)|Benchmark for DevOps|   
 |                     |[DevOps-Model](https://github.com/codefuse-ai/CodeFuse-DevOps-Model) |Index for DevOps  Models|   
-| Data Copilot        |CodeFuse-Query (coming soon)| Semantic Code Analysis Engine for CodeFuse Training Data | 
+| Data Copilot        |CodeFuse-Query (coming soon)| Semantic Code Analysis Engine for Data Quality | 
 | Others              |[ChatBot](https://github.com/codefuse-ai/codefuse-chatbot) |General chatbot frontend for CodeFuse | 
 |                     |[ModelCache](https://github.com/codefuse-ai/CodeFuse-ModelCache) |Semantic Cache for LLM Serving  | 
 |                     |[CoCA](https://github.com/codefuse-ai/Collinear-Constrained-Attention)|Colinear Attention | 
@@ -79,7 +79,8 @@ We listed repositories according to the lifecycle above.
 
 For more technique details about CodeFuse, please refere to our paper [MFTCoder](https://arxiv.org/abs/2311.02303).
 
-If you find our work useful or helpful for your R&D works, please feel free to cite our paper as below.
+If you find our work useful or helpful for your R&D works, please feel free to cite our papers as below.
+
 ```
 @article{mftcoder2023,
       title={MFTCoder: Boosting Code LLMs with Multitask Fine-Tuning}, 
